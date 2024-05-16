@@ -3,8 +3,8 @@
 /* Espaço para criar variáveis */
 :root {
     --cor-titulo: black;
-    --cor-degrade-1: #87CEFA;
-    --cor-degrade-2: #1E90FF;
+    --cor-degrade-1: WHITE;
+    --cor-degrade-2: PINK;
 
     --largura-maxima: 1080px;
 }
